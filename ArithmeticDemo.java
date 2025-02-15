@@ -4,12 +4,12 @@ public class ArithmeticDemo {
         int num2 = 5;
         double num3 = 3.0;
 
-        
+       
         int sum = num1 + num2;              
         int difference = num1 - num2;      
         int product = num1 * num2;          
         int quotient = num1 / num2;         
-        int remainder = num1 % num2;      (remainder of division)
+        int remainder = num1 % num2;  
         int expressionResult = num1 + num2 * 2 - (num1 / num2);  
 
         
